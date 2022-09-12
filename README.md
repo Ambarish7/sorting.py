@@ -1,1 +1,1 @@
-# sorting.py
+# sorting visualizer algorithm
